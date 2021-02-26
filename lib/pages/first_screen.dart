@@ -109,6 +109,7 @@ class _FirstScreenState extends State<FirstScreen> {
       );
     }
 
+    // todo: buat carousel slidernya
     return Scaffold(
       body: SafeArea(
         child: Center(
