@@ -1,7 +1,7 @@
 # ui_travelapp
 
-![Artboard 1@4x](https://user-images.githubusercontent.com/50306963/122431106-5b740c80-cfbe-11eb-9159-d205c37d55e9.png)
-
+## Preview UI
+![Artboard 1@4x](https://user-images.githubusercontent.com/50306963/109160759-ca77ec00-77a8-11eb-83bb-fbfce43771a7.png)
 
 A new Flutter project.
 
@@ -17,6 +17,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-## Preview UI
-![Artboard 1@4x](https://user-images.githubusercontent.com/50306963/109160759-ca77ec00-77a8-11eb-83bb-fbfce43771a7.png)
