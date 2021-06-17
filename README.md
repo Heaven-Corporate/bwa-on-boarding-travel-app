@@ -1,5 +1,8 @@
 # ui_travelapp
 
+![Artboard 1@4x](https://user-images.githubusercontent.com/50306963/122431106-5b740c80-cfbe-11eb-9159-d205c37d55e9.png)
+
+
 A new Flutter project.
 
 ## Getting Started
